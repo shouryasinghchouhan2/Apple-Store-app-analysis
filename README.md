@@ -1,10 +1,25 @@
-# Apple-Store-app-analysis
+# Apple-Store-apps-analysis
 
 ## Dateset Overview
 
 This data contains information about 7197 apps from the apple app store. Source of this dataset is Kaggle.
 
 Exploratory data analysis was done by SQL on Sqlliteonline.com
+
+## Exploratory data analysis 
+
+1) Check the number of unique apps in table AppleStore
+2) Check for any missing values in key fields
+3) Find out the number of apps per genre
+4) Get an overview of apps' rating
+
+## Data analysis
+
+1) Determine Whether paid apps have higher ratings than free apps
+2) Check if apps with more supported languages have higher ratings
+3) Check the genre with low ratings
+4) Check if there is a correlation between the length of the app description and user rating
+5) Check the top rated apps fpr each genre
 
 ## Conclusion
 
